@@ -93,13 +93,14 @@ p {
   color: white;
   width: 49%;
   margin-bottom: 1px;
+  font-size: 1.1em;
 }
 
 .quiz-question-answer-btn-wrong {
   background-color:rgb(255, 100, 100);
 }
 .quiz-question-answer-btn:hover {
-
+ opacity: 0.8;
 }
 .quiz-progress-info {
   padding: 10%;
