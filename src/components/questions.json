@@ -193,7 +193,7 @@
         "difficulty": "medium",
         "question": "From%20which%20album%20is%20the%20Gorillaz%20song%2C%20%22On%20Melancholy%20Hill%22%20featured%20in%3F",
         "correct_answer": "Plastic%20Beach",
-        "incorrect_answers": 
+        "incorrect_answers": [
             "Demon%20Days",
             "Humanz",
             "The%20Fall"
