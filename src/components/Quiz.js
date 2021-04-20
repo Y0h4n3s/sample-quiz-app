@@ -23,7 +23,7 @@ export default class Quiz extends React.Component {
       result =
         <div className="result-container">
           <p className="answer-result-text">{this.state.history[this.state.questionNumber] ? "Good Job!" : "Sorry!"}</p>
-          <button className="next-question-btn" onClick={() => this.handleNextQuestion()}>Next Question</button>
+          <button className="next-question-btn" onClick={() => this.handleNextQuestion()}>Next Question &#8594;</button>
         </div>
 
     }
